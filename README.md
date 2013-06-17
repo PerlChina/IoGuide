@@ -1,7 +1,7 @@
 IoGuide
 ======
 
-Show some IO document with beauty format.
+Show some Io language document with beauty format.
 
 1. Io guide
 2. Io Core reference

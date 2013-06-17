@@ -29,10 +29,13 @@ Io 精致小巧的设计和无以伦比的领域特定语言(DSL)能力，将帮
 ## 运行环境
 
   for windows: 
-  http://www.iolanguage.com/download/ioinstall.zip
+  http://iobin.suspended-chord.info/win32/iobin-win32-current.zip
 
-  for linux:
-  http://www.iolanguage.com/download/ioinstall.gar
+  for linux x86:
+  http://iobin.suspended-chord.info/linux/iobin-linux-x86-rpm-current.zip
+
+  for linux x64
+  http://iobin.suspended-chord.info/linux/iobin-linux-x64-rpm-current.zip
 
 ## Io 的基本语法
 
